@@ -144,18 +144,15 @@ Top 10 stocks from each bucket are selected → **30 candidates**, ensuring dive
 ---
 
 ## ▶️ How to Run the Project
-
 ### Step 1: Install Dependencies
-```bash
 pip install pandas numpy yfinance matplotlib scipy curl-cffi
-Step 2: Run Portfolio Construction
+### Step 2: Run Portfolio Construction
 python portfolio_construction.py
 This generates:
 Risk scores
 Final optimized portfolio
 CSV outputs
-
-Step 3: Run Performance & Risk Analysis
+### Step 3: Run Performance & Risk Analysis
 python portfolio_tracking_and_risk.py
 This:
 Tracks performance
