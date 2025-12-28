@@ -19,18 +19,6 @@ The project is designed to meet **academic finance standards** while remaining *
 
 ---
 
-##  Repository Structure
-├── portfolio_construction.py # Portfolio construction (2009–2024)
-├── portfolio_tracking_and_risk.py # Performance tracking & risk management (2024)
-├── final_10_stock_mvp_portfolio.csv # Final optimized portfolio weights
-├── nifty500_composite_risk_output.csv
-├── nifty500_raw_prices_unadjusted.csv
-├── NIFTY_500s.csv # Stock universe
-└── README.md
-
-
----
-
 ## 🧠 Methodology Summary
 
 ### 1️⃣ Data Collection
