@@ -2,7 +2,7 @@
 This project constructs risk-optimized 10-stock equity portfolio using historical NIFTY 500 data (2009–2024) evaluates its performance against the NIFTY 500 index, computes advanced risk metrics (VaR, volatility, CVaR), estimates implied volatility using India VIX and implements volatility-based options hedging framework to cap weekly losses at 5%.
 #  Optimum Portfolio Construction & Risk Management (NIFTY 500)
 
-##  Project Overview
+##  Project Overview (IMPORTANT ALL FILES SHOULD BE IN SINGLE FOLDER CHANGE THE FOLDER PATH IN THE CODE)
 
 This project builds, evaluates, and risk-manages an **optimal equity portfolio** using **NIFTY 500 stocks**.  
 It follows a **fully data-driven and reproducible approach**, covering:
